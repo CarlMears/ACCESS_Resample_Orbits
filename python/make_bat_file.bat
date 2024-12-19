@@ -1,0 +1,14 @@
+start "6000" cmd /c amsr2_exe.exe 6001 7000 30 5 6 7 8 9 10 11 12
+start "7000" cmd /c amsr2_exe.exe 7001 8000 30 5 6 7 8 9 10 11 12
+start "8000" cmd /c amsr2_exe.exe 8001 9000 30 5 6 7 8 9 10 11 12
+start "9000" cmd /c amsr2_exe.exe 9001 10000 30 5 6 7 8 9 10 11 12
+start "10000" cmd /c amsr2_exe.exe 10001 11000 30 5 6 7 8 9 10 11 12
+start "11000" cmd /c amsr2_exe.exe 11001 12000 30 5 6 7 8 9 10 11 12
+start "12000" cmd /c amsr2_exe.exe 12001 13000 30 5 6 7 8 9 10 11 12
+start "13000" cmd /c amsr2_exe.exe 13001 14000 30 5 6 7 8 9 10 11 12
+start "14000" cmd /c amsr2_exe.exe 14001 15000 30 5 6 7 8 9 10 11 12
+start "15000" cmd /c amsr2_exe.exe 15001 16000 30 5 6 7 8 9 10 11 12
+start "16000" cmd /c amsr2_exe.exe 16001 17000 30 5 6 7 8 9 10 11 12
+start "17000" cmd /c amsr2_exe.exe 17001 18000 30 5 6 7 8 9 10 11 12
+start "18000" cmd /c amsr2_exe.exe 18001 19000 30 5 6 7 8 9 10 11 12
+start "19000" cmd /c amsr2_exe.exe 19001 20000 30 5 6 7 8 9 10 11 12
